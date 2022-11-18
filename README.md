@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**cualestunombre/cualestunombre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ymaru02/ymaru02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,30 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SEOKWOO%20WOO🎨&fontSize=90)
+
+<div align=center>
+  
+  
+**JUNIOR BACKEND DEVELOPER**
+
+Email: 1dilumn0@gmail.com <br>
+Notion: [Notion Link](https://marked-hero-17a.notion.site/178ede95d2ee4818966d3a6eafcae783)
+  
+  
+<h3> ✨ T e c h ✨ </h3> 
+
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![jest](https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white) 
+<br>
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)  ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+<br>
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymaru02&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymaru02&layout=compact&theme=Most%20Used%20Languages&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fymaru02%2Fhit-counter&count_bg=%23999FFA&title_bg=%23E8B4B4&icon=&icon_color=%23DE7171&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>

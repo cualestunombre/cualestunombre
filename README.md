@@ -1,17 +1,4 @@
-<!--
-**ymaru02/ymaru02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SEOKWOO%20WOO🎨&fontSize=90)
 
@@ -22,7 +9,11 @@ Here are some ideas to get you started:
 
 Email: 1dilumn0@gmail.com <br>
 Notion: [Notion Link](https://marked-hero-17a.notion.site/178ede95d2ee4818966d3a6eafcae783)
-  
+<br>
+ <br>
+ 
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1dilumn0)](https://solved.ac/1dilumn0)
   
 <h3> ✨ T e c h ✨ </h3> 
 

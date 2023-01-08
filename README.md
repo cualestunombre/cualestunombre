@@ -25,7 +25,7 @@ Notion: [Notion Link](https://marked-hero-17a.notion.site/178ede95d2ee4818966d3a
 <br>
 
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=cualestunombre&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cualestunombre&layout=compact&theme=Most%20Used%20Languages&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cualestunombre&layout=compact&theme=Most%20Used%20Languages&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
  
 
 </div>

@@ -29,3 +29,5 @@ Notion: [Notion Link](https://marked-hero-17a.notion.site/178ede95d2ee4818966d3a
  
 
 </div>
+
+<h3>메인 스택은 자바 스프링이고 express.js, nest.js에도 관심이 많습니다</h3>

@@ -30,4 +30,6 @@ Notion: [Notion Link](https://marked-hero-17a.notion.site/178ede95d2ee4818966d3a
 
 </div>
 
-<h4>메인 스택은 자바 스프링이고 express.js, nest.js에도 관심이 많습니다<br></h4>
+<h4>메인 스택은 자바 스프링이고 express.js, nest.js에도 관심이 많습니다. 프론트엔드도 react.js도 어느 정도 다룰 수 있는 수준까지 되는 것이 목표입니다.  <br>
+사실, 프로그래밍이라면 뭐든 자신있습니다. 
+</h4>

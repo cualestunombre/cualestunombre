@@ -36,7 +36,7 @@ Notion: [Notion Link](https://marked-hero-17a.notion.site/178ede95d2ee4818966d3a
 </h4>
 
 <h3> ✨ Plan✨ </h3> 
-<h4>자바 및 스프링 기술 갈고닦기 <br>DB/네트워크 지식 쌓기 <br>
-slack과 유사한 협업툴 만들기(project)
+<h4>자바 및 스프링 기술 갈고닦기 <br>DB/네트워크 지식 갈고닦기 <br>
+Spring/React로 slack과 유사한 협업툴 만들기(project)
 </h4>
 

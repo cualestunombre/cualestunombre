@@ -33,12 +33,10 @@ Notion: [Notion Link](https://marked-hero-17a.notion.site/178ede95d2ee4818966d3a
 <h3> ✨ Comment✨ </h3> 
 <h4>메인 스택은 자바 스프링이고 express.js, nest.js에도 관심이 많습니다. <br>react.js도  다룰 수 있는 수준까지 되는 것이 목표입니다.  <br>
 사실, 프로그래밍이라면 뭐든 자신있습니다!<br>
-구현만 하는게 아니라, 요구사항 분석, 소프트웨어 디자인, 테스팅, 유지보수 등<br>
-개발 전 사이클을 모두 잘하고자 합니다!
 </h4>
 
 <h3> ✨ Plan✨ </h3> 
-<h4>자바 및 스프링 기술 갈고닦기 <br>DB/네트워크 지식 갈고닦기 <br>
+<h4>자바 및 스프링 기술 갈고닦기 <br>DB/네트워크/OS 공부<br>
 Spring/React로 slack과 유사한 협업툴 만들기(project)
 </h4>
 

@@ -8,8 +8,8 @@
 **JUNIOR BACKEND DEVELOPER**
 
 Email: 1dilumn0@gmail.com <br>
-Notion: [Notion Link](https://marked-hero-17a.notion.site/178ede95d2ee4818966d3a6eafcae783)
-Velog : [Link](https://velog.io/@1dilumn0)
+Notion: [Notion Link](https://marked-hero-17a.notion.site/178ede95d2ee4818966d3a6eafcae783)<br>
+Velog : [벨로그](https://velog.io/@1dilumn0)
 <br>
  <br>
  

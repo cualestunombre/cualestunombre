@@ -33,12 +33,6 @@ Velog : [벨로그](https://velog.io/@1dilumn0)
 
 <h3> ✨ Comment✨ </h3> 
 <h4>메인 스택은 자바 스프링과 express.js입니다.<br>
-모바일 앱 ,프론트엔드, 백엔드, 데브옵스, 인프라 등등 개발의 모든 분야에 관심이 많습니다.<br>
 </h4>
 
-<h3> ✨ Plan✨ </h3> 
-<h4>자바 및 스프링 기술 갈고닦기 <br>DB/네트워크/OS 공부<br>
-Spring/React로 slack과 유사한 협업툴 만들기(project)<br>
-C언어로 초고속 파일전송 프로그램 구축하기 
-</h4>
 

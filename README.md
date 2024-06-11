@@ -26,7 +26,11 @@ Notion: [Notion Link](https://marked-hero-17a.notion.site/178ede95d2ee4818966d3a
 
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=cualestunombre&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cualestunombre&layout=compact&theme=Most%20Used%20Languages&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
- 
+
+<br>
+ <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/cualestunombre?pet-id=1" width="1000" height="120"/>
+</a>
 
 </div>
 
